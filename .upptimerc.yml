@@ -5,8 +5,10 @@ repo: poh-events-uptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: POH events bot
+  - name: POH events bot from render hosting
     url: https://poh-events-bot.onrender.com/ping
+  - name: POH events bot from railway hosting
+    url: https://poh-events-bot-production.up.railway.app/ping
 
 assigness:
   - masch
