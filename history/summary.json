@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot.onrender.com.ico",
     "slug": "poh-events-bot-from-render-hosting",
     "status": "up",
-    "uptime": "61.72%",
-    "uptimeDay": "46.06%",
-    "uptimeWeek": "45.80%",
-    "uptimeMonth": "61.72%",
-    "uptimeYear": "61.72%",
+    "uptime": "62.20%",
+    "uptimeDay": "46.05%",
+    "uptimeWeek": "46.44%",
+    "uptimeMonth": "62.20%",
+    "uptimeYear": "62.20%",
     "time": 13276,
     "timeDay": 12211,
     "timeWeek": 12628,
@@ -41,7 +41,7 @@
       "2022-11-27": 832,
       "2022-11-26": 894,
       "2022-11-25": 883,
-      "2022-11-24": 211
+      "2022-11-24": 146
     }
   },
   {
