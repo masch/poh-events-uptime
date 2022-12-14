@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 71,
-    "timeWeek": 103,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "time": 109,
+    "timeDay": 68,
+    "timeWeek": 99,
+    "timeMonth": 109,
+    "timeYear": 109,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot.onrender.com.ico",
     "slug": "poh-events-bot-from-render-hosting",
     "status": "up",
-    "uptime": "76.00%",
-    "uptimeDay": "86.62%",
-    "uptimeWeek": "56.88%",
-    "uptimeMonth": "76.00%",
-    "uptimeYear": "76.00%",
-    "time": 10904,
-    "timeDay": 352,
-    "timeWeek": 8356,
-    "timeMonth": 10904,
-    "timeYear": 10904,
+    "uptime": "76.12%",
+    "uptimeDay": "87.30%",
+    "uptimeWeek": "57.88%",
+    "uptimeMonth": "76.12%",
+    "uptimeYear": "76.12%",
+    "time": 10873,
+    "timeDay": 348,
+    "timeWeek": 8057,
+    "timeMonth": 10873,
+    "timeYear": 10873,
     "dailyMinutesDown": {
-      "2022-12-13": 193,
+      "2022-12-13": 183,
       "2022-12-12": 54,
       "2022-12-11": 780,
       "2022-12-10": 762,
@@ -44,7 +44,7 @@
       "2022-12-06": 569,
       "2022-12-05": 900,
       "2022-12-04": 1440,
-      "2022-12-03": 506
+      "2022-12-03": 532
     }
   },
   {
@@ -58,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 202,
-    "timeWeek": 191,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "time": 220,
+    "timeDay": 262,
+    "timeWeek": 214,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   }
 ]
