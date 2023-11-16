@@ -27,8 +27,8 @@
     "slug": "poh-events-bot-from-render-hosting",
     "status": "down",
     "uptime": "55.46%",
-    "uptimeDay": "89.46%",
-    "uptimeWeek": "91.75%",
+    "uptimeDay": "89.44%",
+    "uptimeWeek": "91.67%",
     "uptimeMonth": "87.08%",
     "uptimeYear": "55.46%",
     "time": 3403,
@@ -37,7 +37,7 @@
     "timeMonth": 2127,
     "timeYear": 3403,
     "dailyMinutesDown": {
-      "2023-11-16": 0,
+      "2023-11-16": 9,
       "2023-11-15": 151,
       "2023-11-14": 181,
       "2023-11-13": 114,
@@ -248,7 +248,7 @@
     "timeMonth": 286,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2023-11-16": 55,
+      "2023-11-16": 63,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
