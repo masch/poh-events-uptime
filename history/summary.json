@@ -25,14 +25,14 @@
     "url": "https://poh-events-bot.onrender.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot.onrender.com.ico",
     "slug": "poh-events-bot-from-render-hosting",
-    "status": "up",
-    "uptime": "55.49%",
-    "uptimeDay": "90.22%",
+    "status": "down",
+    "uptime": "55.50%",
+    "uptimeDay": "90.21%",
     "uptimeWeek": "91.37%",
-    "uptimeMonth": "87.49%",
-    "uptimeYear": "55.49%",
+    "uptimeMonth": "87.61%",
+    "uptimeYear": "55.50%",
     "time": 3402,
-    "timeDay": 956,
+    "timeDay": 1005,
     "timeWeek": 998,
     "timeMonth": 2136,
     "timeYear": 3402,
@@ -227,8 +227,7 @@
       "2023-05-12": 742,
       "2023-05-11": 160,
       "2023-05-10": 71,
-      "2023-05-09": 86,
-      "2023-05-08": 28
+      "2023-05-09": 86
     }
   },
   {
@@ -248,7 +247,7 @@
     "timeMonth": 286,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2023-11-16": 327,
+      "2023-11-16": 378,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
