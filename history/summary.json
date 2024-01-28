@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 107,
-    "timeDay": 77,
-    "timeWeek": 78,
+    "time": 106,
+    "timeDay": 75,
+    "timeWeek": 80,
     "timeMonth": 77,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot.onrender.com.ico",
     "slug": "poh-events-bot-from-render-hosting",
     "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "96.45%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "96.33%",
+    "uptime": "99.44%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "96.35%",
     "uptimeYear": "99.34%",
-    "time": 2006,
-    "timeDay": 212,
-    "timeWeek": 4237,
-    "timeMonth": 2965,
-    "timeYear": 2026,
+    "time": 2005,
+    "timeDay": 205,
+    "timeWeek": 3857,
+    "timeMonth": 2979,
+    "timeYear": 2028,
     "dailyMinutesDown": {
-      "2024-01-27": 51,
+      "2024-01-27": 38,
       "2024-01-25": 40,
       "2024-01-24": 83,
       "2024-01-23": 17,
@@ -87,7 +87,7 @@
       "2023-11-29": 70,
       "2023-11-28": 35,
       "2023-11-27": 125,
-      "2023-11-26": 28
+      "2023-11-26": 55
     }
   },
   {
@@ -96,18 +96,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot-production.up.railway.app.ico",
     "slug": "poh-events-bot-from-railway-hosting",
     "status": "down",
-    "uptime": "21.81%",
+    "uptime": "21.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "17.46%",
     "time": 245,
-    "timeDay": 347,
-    "timeWeek": 333,
-    "timeMonth": 314,
+    "timeDay": 385,
+    "timeWeek": 345,
+    "timeMonth": 315,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-01-27": 1104,
+      "2024-01-28": 64,
+      "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
@@ -409,8 +410,7 @@
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
-      "2023-01-29": 1440,
-      "2023-01-28": 1440
+      "2023-01-29": 1440
     }
   }
 ]
