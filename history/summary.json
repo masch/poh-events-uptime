@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 174,
-    "timeWeek": 141,
-    "timeMonth": 132,
-    "timeYear": 114,
+    "timeDay": 189,
+    "timeWeek": 158,
+    "timeMonth": 136,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2023-08-10": 16,
       "2023-07-25": 17
@@ -27,17 +27,17 @@
     "slug": "poh-events-bot-from-render-hosting",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "98.16%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "98.18%",
     "uptimeYear": "99.46%",
-    "time": 2000,
-    "timeDay": 1327,
-    "timeWeek": 1925,
-    "timeMonth": 2527,
-    "timeYear": 1965,
+    "time": 2015,
+    "timeDay": 5204,
+    "timeWeek": 2743,
+    "timeMonth": 2742,
+    "timeYear": 1982,
     "dailyMinutesDown": {
-      "2024-04-27": 26,
+      "2024-04-27": 18,
       "2024-04-26": 32,
       "2024-04-25": 24,
       "2024-04-24": 55,
@@ -99,7 +99,7 @@
       "2024-01-29": 19,
       "2024-01-27": 38,
       "2024-01-25": 40,
-      "2024-01-24": 52
+      "2024-01-24": 83
     }
   },
   {
@@ -108,18 +108,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot-production.up.railway.app.ico",
     "slug": "poh-events-bot-from-railway-hosting",
     "status": "down",
-    "uptime": "18.02%",
+    "uptime": "18.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 253,
-    "timeDay": 340,
-    "timeWeek": 260,
-    "timeMonth": 280,
+    "timeDay": 244,
+    "timeWeek": 264,
+    "timeMonth": 278,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-04-27": 1052,
+      "2024-04-28": 66,
+      "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
@@ -482,8 +483,7 @@
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
-      "2023-04-30": 1440,
-      "2023-04-29": 1440
+      "2023-04-30": 1440
     }
   }
 ]
