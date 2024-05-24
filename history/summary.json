@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 72,
-    "timeWeek": 170,
-    "timeMonth": 163,
+    "timeDay": 86,
+    "timeWeek": 163,
+    "timeMonth": 158,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2024-05-01": 40,
@@ -28,17 +28,17 @@
     "slug": "poh-events-bot-from-render-hosting",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "92.46%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "97.73%",
-    "uptimeYear": "99.45%",
-    "time": 2052,
-    "timeDay": 1971,
-    "timeWeek": 4708,
+    "uptimeDay": "93.24%",
+    "uptimeWeek": "95.76%",
+    "uptimeMonth": "97.80%",
+    "uptimeYear": "99.44%",
+    "time": 2051,
+    "timeDay": 2175,
+    "timeWeek": 4297,
     "timeMonth": 2987,
     "timeYear": 2048,
     "dailyMinutesDown": {
-      "2024-05-23": 108,
+      "2024-05-23": 97,
       "2024-05-22": 77,
       "2024-05-21": 95,
       "2024-05-20": 86,
@@ -97,7 +97,7 @@
       "2024-02-29": 26,
       "2024-02-28": 22,
       "2024-02-26": 18,
-      "2024-02-23": 22
+      "2024-02-23": 53
     }
   },
   {
@@ -106,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot-production.up.railway.app.ico",
     "slug": "poh-events-bot-from-railway-hosting",
     "status": "down",
-    "uptime": "17.16%",
+    "uptime": "17.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 259,
-    "timeDay": 323,
-    "timeWeek": 334,
-    "timeMonth": 325,
-    "timeYear": 276,
+    "timeDay": 354,
+    "timeWeek": 358,
+    "timeMonth": 323,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-05-23": 1226,
+      "2024-05-24": 65,
+      "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -480,8 +481,7 @@
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
-      "2023-05-26": 1440,
-      "2023-05-25": 1440
+      "2023-05-26": 1440
     }
   }
 ]
