@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 115,
-    "timeDay": 170,
-    "timeWeek": 122,
-    "timeMonth": 108,
+    "timeDay": 111,
+    "timeWeek": 123,
+    "timeMonth": 110,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2024-05-01": 40,
-      "2023-08-10": 16,
-      "2023-07-25": 17
+      "2023-08-10": 16
     }
   },
   {
@@ -28,17 +27,17 @@
     "slug": "poh-events-bot-from-render-hosting",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "89.45%",
-    "uptimeWeek": "92.83%",
-    "uptimeMonth": "94.26%",
+    "uptimeDay": "90.27%",
+    "uptimeWeek": "92.95%",
+    "uptimeMonth": "94.29%",
     "uptimeYear": "99.45%",
     "time": 2238,
-    "timeDay": 1830,
-    "timeWeek": 3078,
-    "timeMonth": 3109,
+    "timeDay": 2121,
+    "timeWeek": 2817,
+    "timeMonth": 3118,
     "timeYear": 2312,
     "dailyMinutesDown": {
-      "2024-07-23": 153,
+      "2024-07-23": 141,
       "2024-07-22": 81,
       "2024-07-21": 39,
       "2024-07-19": 207,
@@ -73,7 +72,8 @@
       "2024-06-16": 18,
       "2024-06-15": 63,
       "2024-06-14": 37,
-      "2024-06-13": 81
+      "2024-06-13": 81,
+      "2024-06-12": 18
     }
   },
   {
@@ -82,18 +82,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot-production.up.railway.app.ico",
     "slug": "poh-events-bot-from-railway-hosting",
     "status": "down",
-    "uptime": "15.45%",
+    "uptime": "15.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 269,
-    "timeDay": 189,
-    "timeWeek": 263,
-    "timeMonth": 300,
-    "timeYear": 290,
+    "time": 270,
+    "timeDay": 474,
+    "timeWeek": 299,
+    "timeMonth": 306,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-07-23": 1227,
+      "2024-07-24": 70,
+      "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
@@ -456,8 +457,7 @@
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
-      "2023-07-26": 1440,
-      "2023-07-25": 1440
+      "2023-07-26": 1440
     }
   }
 ]
