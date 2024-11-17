@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 115,
-    "timeDay": 92,
-    "timeWeek": 89,
+    "timeDay": 94,
+    "timeWeek": 91,
     "timeMonth": 100,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot.onrender.com.ico",
     "slug": "poh-events-bot-from-render-hosting",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "94.96%",
-    "uptimeMonth": "93.13%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.70%",
+    "uptimeDay": "96.67%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "93.07%",
+    "uptimeYear": "99.41%",
     "time": 2736,
-    "timeDay": 1989,
-    "timeWeek": 1103,
-    "timeMonth": 2287,
+    "timeDay": 1997,
+    "timeWeek": 1122,
+    "timeMonth": 2304,
     "timeYear": 2758,
     "dailyMinutesDown": {
-      "2024-11-16": 60,
+      "2024-11-16": 48,
       "2024-11-15": 49,
       "2024-11-14": 53,
       "2024-11-13": 120,
@@ -65,7 +65,7 @@
       "2024-10-20": 228,
       "2024-10-19": 60,
       "2024-10-18": 149,
-      "2024-10-17": 197
+      "2024-10-17": 288
     }
   },
   {
@@ -74,18 +74,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot-production.up.railway.app.ico",
     "slug": "poh-events-bot-from-railway-hosting",
     "status": "down",
-    "uptime": "12.98%",
+    "uptime": "12.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 308,
-    "timeDay": 479,
-    "timeWeek": 339,
-    "timeMonth": 488,
+    "timeDay": 254,
+    "timeWeek": 337,
+    "timeMonth": 487,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2024-11-16": 1163,
+      "2024-11-17": 87,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -448,8 +449,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   }
 ]
