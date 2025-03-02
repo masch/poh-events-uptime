@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 102,
-    "timeWeek": 104,
-    "timeMonth": 110,
+    "timeDay": 107,
+    "timeWeek": 107,
+    "timeMonth": 111,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-05-01": 40
@@ -26,17 +26,17 @@
     "slug": "poh-events-bot-from-render-hosting",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "96.39%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "99.46%",
-    "time": 2813,
-    "timeDay": 3195,
-    "timeWeek": 2835,
-    "timeMonth": 2650,
-    "timeYear": 2822,
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "96.51%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "99.45%",
+    "time": 2817,
+    "timeDay": 4753,
+    "timeWeek": 3126,
+    "timeMonth": 2768,
+    "timeYear": 2826,
     "dailyMinutesDown": {
-      "2025-03-01": 31,
+      "2025-03-01": 20,
       "2025-02-28": 23,
       "2025-02-27": 43,
       "2025-02-26": 58,
@@ -79,7 +79,7 @@
       "2025-01-11": 75,
       "2025-01-10": 53,
       "2025-01-09": 244,
-      "2025-01-08": 91
+      "2025-01-08": 130
     }
   },
   {
@@ -94,12 +94,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 327,
-    "timeDay": 330,
-    "timeWeek": 398,
-    "timeMonth": 332,
+    "timeDay": 219,
+    "timeWeek": 368,
+    "timeMonth": 325,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-03-01": 932,
+      "2025-03-02": 86,
+      "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -462,8 +463,7 @@
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
-      "2024-03-03": 1440,
-      "2024-03-02": 1440
+      "2024-03-03": 1440
     }
   }
 ]
