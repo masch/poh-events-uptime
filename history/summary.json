@@ -24,16 +24,16 @@
     "url": "https://poh-events-bot.onrender.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot.onrender.com.ico",
     "slug": "poh-events-bot-from-render-hosting",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "95.83%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "96.24%",
     "uptimeWeek": "97.12%",
-    "uptimeMonth": "97.00%",
-    "uptimeYear": "99.45%",
-    "time": 2832,
-    "timeDay": 11873,
-    "timeWeek": 3800,
-    "timeMonth": 3009,
+    "uptimeMonth": "97.05%",
+    "uptimeYear": "99.48%",
+    "time": 2833,
+    "timeDay": 14801,
+    "timeWeek": 3908,
+    "timeMonth": 2946,
     "timeYear": 2825,
     "dailyMinutesDown": {
       "2025-03-04": 24,
@@ -81,7 +81,7 @@
       "2025-01-12": 90,
       "2025-01-11": 75,
       "2025-01-10": 53,
-      "2025-01-09": 244
+      "2025-01-09": 100
     }
   },
   {
@@ -90,7 +90,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot-production.up.railway.app.ico",
     "slug": "poh-events-bot-from-railway-hosting",
     "status": "down",
-    "uptime": "11.31%",
+    "uptime": "11.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -101,7 +101,7 @@
     "timeMonth": 323,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-03-04": 403,
+      "2025-03-04": 527,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
