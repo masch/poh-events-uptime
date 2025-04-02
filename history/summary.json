@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 250,
-    "timeWeek": 147,
-    "timeMonth": 143,
+    "timeDay": 77,
+    "timeWeek": 145,
+    "timeMonth": 142,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2024-05-01": 40
@@ -26,17 +26,16 @@
     "slug": "poh-events-bot-from-render-hosting",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "95.25%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "97.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "97.75%",
     "uptimeYear": "99.48%",
-    "time": 2759,
-    "timeDay": 708,
-    "timeWeek": 424,
-    "timeMonth": 1790,
-    "timeYear": 2766,
+    "time": 2758,
+    "timeDay": 185,
+    "timeWeek": 390,
+    "timeMonth": 1565,
+    "timeYear": 2767,
     "dailyMinutesDown": {
-      "2025-04-01": 12,
       "2025-03-31": 56,
       "2025-03-30": 44,
       "2025-03-29": 31,
@@ -92,7 +91,8 @@
       "2025-01-25": 125,
       "2025-01-24": 42,
       "2025-01-23": 40,
-      "2025-01-22": 44
+      "2025-01-22": 44,
+      "2025-01-21": 22
     }
   },
   {
@@ -101,18 +101,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot-production.up.railway.app.ico",
     "slug": "poh-events-bot-from-railway-hosting",
     "status": "down",
-    "uptime": "10.94%",
+    "uptime": "10.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 333,
-    "timeDay": 440,
-    "timeWeek": 394,
-    "timeMonth": 383,
+    "time": 334,
+    "timeDay": 384,
+    "timeWeek": 388,
+    "timeMonth": 388,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2025-04-01": 291,
+      "2025-04-02": 86,
+      "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -475,8 +476,7 @@
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
-      "2024-04-03": 1440,
-      "2024-04-02": 1440
+      "2024-04-03": 1440
     }
   }
 ]
