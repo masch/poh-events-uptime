@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 241,
-    "timeWeek": 173,
-    "timeMonth": 116,
+    "timeDay": 175,
+    "timeWeek": 169,
+    "timeMonth": 119,
     "timeYear": 111,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,17 @@
     "slug": "poh-events-bot-from-render-hosting",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "95.42%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "99.53%",
-    "time": 2782,
-    "timeDay": 3218,
-    "timeWeek": 3570,
-    "timeMonth": 2685,
-    "timeYear": 2785,
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.35%",
+    "uptimeYear": "99.52%",
+    "time": 2784,
+    "timeDay": 1979,
+    "timeWeek": 3772,
+    "timeMonth": 2758,
+    "timeYear": 2788,
     "dailyMinutesDown": {
-      "2025-05-06": 65,
+      "2025-05-06": 57,
       "2025-05-05": 63,
       "2025-05-04": 27,
       "2025-05-02": 22,
@@ -90,7 +90,7 @@
       "2025-02-27": 43,
       "2025-02-26": 58,
       "2025-02-25": 18,
-      "2025-02-24": 24
+      "2025-02-24": 43
     }
   },
   {
@@ -99,18 +99,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot-production.up.railway.app.ico",
     "slug": "poh-events-bot-from-railway-hosting",
     "status": "down",
-    "uptime": "10.51%",
+    "uptime": "10.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 336,
-    "timeDay": 405,
-    "timeWeek": 405,
-    "timeMonth": 345,
+    "timeDay": 284,
+    "timeWeek": 387,
+    "timeMonth": 349,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-05-06": 894,
+      "2025-05-07": 98,
+      "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
@@ -473,8 +474,7 @@
       "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
-      "2024-05-08": 1440,
-      "2024-05-07": 1440
+      "2024-05-08": 1440
     }
   }
 ]
