@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 137,
-    "timeWeek": 187,
+    "timeDay": 98,
+    "timeWeek": 176,
     "timeMonth": 125,
-    "timeYear": 111,
+    "timeYear": 110,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot.onrender.com.ico",
     "slug": "poh-events-bot-from-render-hosting",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "97.20%",
-    "uptimeMonth": "97.58%",
+    "uptime": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "97.61%",
     "uptimeYear": "99.52%",
-    "time": 2782,
-    "timeDay": 207,
-    "timeWeek": 3105,
-    "timeMonth": 2438,
+    "time": 2783,
+    "timeDay": 182,
+    "timeWeek": 2389,
+    "timeMonth": 2294,
     "timeYear": 2774,
     "dailyMinutesDown": {
-      "2025-05-09": 14,
       "2025-05-08": 53,
       "2025-05-07": 68,
       "2025-05-06": 57,
@@ -90,7 +89,8 @@
       "2025-03-02": 40,
       "2025-03-01": 20,
       "2025-02-28": 23,
-      "2025-02-27": 43
+      "2025-02-27": 43,
+      "2025-02-26": 25
     }
   },
   {
@@ -105,12 +105,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 337,
-    "timeDay": 542,
-    "timeWeek": 386,
-    "timeMonth": 358,
+    "timeDay": 309,
+    "timeWeek": 360,
+    "timeMonth": 347,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-05-09": 1240,
+      "2025-05-10": 87,
+      "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -473,8 +474,7 @@
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
-      "2024-05-11": 1440,
-      "2024-05-10": 1440
+      "2024-05-11": 1440
     }
   }
 ]
