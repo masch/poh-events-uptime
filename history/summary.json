@@ -24,15 +24,15 @@
     "slug": "poh-events-bot-from-render-hosting",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "91.48%",
-    "uptimeWeek": "96.72%",
+    "uptimeDay": "91.47%",
+    "uptimeWeek": "96.71%",
     "uptimeMonth": "95.75%",
-    "uptimeYear": "99.48%",
-    "time": 2765,
-    "timeDay": 874,
-    "timeWeek": 1737,
-    "timeMonth": 2649,
-    "timeYear": 2758,
+    "uptimeYear": "99.49%",
+    "time": 2766,
+    "timeDay": 865,
+    "timeWeek": 1685,
+    "timeMonth": 2650,
+    "timeYear": 2759,
     "dailyMinutesDown": {
       "2025-06-17": 123,
       "2025-06-15": 36,
@@ -77,8 +77,7 @@
       "2025-04-27": 19,
       "2025-04-26": 15,
       "2025-04-25": 40,
-      "2025-04-24": 46,
-      "2025-04-23": 24
+      "2025-04-24": 46
     }
   },
   {
@@ -98,7 +97,7 @@
     "timeMonth": 317,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-06-17": 940,
+      "2025-06-17": 1047,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
