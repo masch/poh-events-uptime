@@ -1,7 +1,7 @@
 url: https://poh-events-bot.onrender.com/ping
-status: up
-code: 200
-responseTime: 161
-lastUpdated: 2025-07-08T10:24:58.668Z
+status: down
+code: 429
+responseTime: 154
+lastUpdated: 2025-07-08T10:45:35.911Z
 startTime: 2022-11-21T13:38:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
