@@ -11,8 +11,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 135,
-    "timeDay": 70,
-    "timeWeek": 83,
+    "timeDay": 96,
+    "timeWeek": 85,
     "timeMonth": 419,
     "timeYear": 147,
     "dailyMinutesDown": {
@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot.onrender.com.ico",
     "slug": "poh-events-bot-from-render-hosting",
     "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "86.37%",
-    "uptimeWeek": "91.68%",
-    "uptimeMonth": "93.97%",
+    "uptime": "98.99%",
+    "uptimeDay": "88.45%",
+    "uptimeWeek": "91.80%",
+    "uptimeMonth": "94.00%",
     "uptimeYear": "96.91%",
     "time": 2387,
-    "timeDay": 2160,
-    "timeWeek": 2910,
-    "timeMonth": 2922,
-    "timeYear": 2392,
+    "timeDay": 2489,
+    "timeWeek": 2926,
+    "timeMonth": 2909,
+    "timeYear": 2393,
     "dailyMinutesDown": {
-      "2025-12-16": 178,
+      "2025-12-16": 166,
       "2025-12-15": 86,
       "2025-12-14": 66,
       "2025-12-13": 50,
@@ -89,7 +89,8 @@
       "2025-10-23": 28,
       "2025-10-22": 93,
       "2025-10-21": 23,
-      "2025-10-16": 22
+      "2025-10-16": 22,
+      "2025-10-14": 32
     }
   },
   {
@@ -98,18 +99,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/poh-events-bot-production.up.railway.app.ico",
     "slug": "poh-events-bot-from-railway-hosting",
     "status": "down",
-    "uptime": "8.41%",
+    "uptime": "8.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 322,
-    "timeDay": 113,
-    "timeWeek": 167,
-    "timeMonth": 174,
+    "time": 321,
+    "timeDay": 136,
+    "timeWeek": 168,
+    "timeMonth": 177,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2025-12-16": 900,
+      "2025-12-17": 101,
+      "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -472,8 +474,7 @@
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
-      "2024-12-18": 1440,
-      "2024-12-17": 1440
+      "2024-12-18": 1440
     }
   }
 ]
